@@ -1,0 +1,37 @@
+.container{display: flex; justify-content: space-evenly;}
+.cabeza{display: inline-flex;}
+#timbo{max-width: 150px;max-height: 150px;}
+::placeholder{color: black;}
+.boton{color: black;background: gold;}
+.barrabusqueda{margin-left: 500px;border-radius: 10px;border-color: gold;width: 400px;height: 20px;background: white;}
+h1{border-radius: 10px; border-top-color: gold;}
+.stroke {margin: 3px;padding: 10px;text-align:center;color: #FCDB00;background:transparent;font-family: impact;font-size: 30px;letter-spacing: 12px;text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;}
+body{background-image:url(imagenes/fondo.jpg)}
+#agu{color: gold;}
+.titu {
+    text-align: center;
+    color: gold;
+    background: transparent;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    letter-spacing: 0;
+    text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333; }
+    .tiposdebotines {
+        text-align: center;
+        color: gold;
+        background: transparent;
+        font-family: Georgia, serif;
+        font-size: 30px;
+        letter-spacing: 0;
+        text-shadow: -1px -1px 1px #333, 1px -1px 1px #333, -1px 1px 1px #333, 1px 1px 1px #333;}
+        #comprar{background: white;}
+        body {
+            background-image: url(imagenes/fondo.jpg);
+            background-repeat:no-repeat;
+            background-position-x:center;
+            background-position-y:center;
+            background-size: 100% 100%;}
+            .fotos{width: 220px;height: 220px;}
+            #copi{border-top: 1px solid #ededed;color: #ededed;
+            display: flex;}
+             .redes{max-width: 50px;}
